@@ -27,6 +27,7 @@ button {
     padding: 2em 6em;
     position: relative;
     text-transform: uppercase;
+    
 }
 
 button::before,
